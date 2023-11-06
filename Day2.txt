@@ -1,1 +1,5 @@
-delete text
+Undo rollback
+1. Undo uncommitted changes:
+
+git checkout --<file>
+git checkout .
