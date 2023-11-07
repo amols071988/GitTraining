@@ -1,1 +1,2 @@
+Welcome to day3 training
 Rebase
