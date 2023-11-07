@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 Welcome to day3 training
-Rebase
-=======
 Topic: Rebase
->>>>>>> r2
